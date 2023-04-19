@@ -1,0 +1,7 @@
+.facture {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: sans-serif;
+
+}
